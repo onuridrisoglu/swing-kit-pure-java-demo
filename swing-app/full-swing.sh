@@ -1,0 +1,1 @@
+java --add-opens java.desktop/sun.awt=ALL-UNNAMED --add-opens java.desktop/sun.lwawt=ALL-UNNAMED --add-opens java.desktop/sun.lwawt.macosx=ALL-UNNAMED -cp ./target/swing-app-1.0-SNAPSHOT.jar com.vaadin.example.PersonListFrame
