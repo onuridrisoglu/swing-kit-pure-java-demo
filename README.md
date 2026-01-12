@@ -14,7 +14,7 @@ This project includes two applications. A **trial license is required** to run t
 On one terminal, run Vaadin application:
 ```
 cd flow-server
-mvn
+mvn jetty:run
 ```
 You can check the different pieces of this demo.
 
